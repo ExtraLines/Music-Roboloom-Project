@@ -1,0 +1,1 @@
+file = open("music_notes.txt", "r")
